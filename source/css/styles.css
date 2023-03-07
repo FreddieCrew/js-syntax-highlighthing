@@ -1,4 +1,9 @@
-   .Code {
+  .result-but {
+  cursor: pointer;
+  display: inline-block; 
+  } 
+
+  .Code {
     height: 179px;
     width: 380px;
     background: #fff;
@@ -21,4 +26,5 @@
     line-height: 1.4;
     font-family: Open Sans;
     font-size: 13px;
+    overflow: hidden;
     }   
